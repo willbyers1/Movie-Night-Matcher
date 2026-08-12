@@ -1,0 +1,6 @@
+{
+  "name": "Movie Night Matcher",
+  "description": "A Tinder-style group movie swiping app with real-time match detection and streaming provider availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
